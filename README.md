@@ -1,2 +1,2 @@
 # projetoruby-1
-Projeto em Ruby 1 (Ler arquivos, chamadas web, web scraping)
+First Project using Ruby (Read Files, web calls, web scraping)
